@@ -11,7 +11,7 @@ setup(
     packages = ['snj_lib'],
     zip_safe = False,
     install_requires = [
-        'openai == 0.27.5'
+        'openai==0.27.5',
         'python-dotenv == 1.0.0'
     ]
 )
